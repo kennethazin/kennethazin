@@ -36,6 +36,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kennethazin/kennethazin/output/snake.svg" alt="Snake animation" />
-
-###
