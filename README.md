@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I like to create things I would use.</p>
+<p align="left">I love coding and design. In my free time I make music, sing & play guitar!</p>
 
 ###
 
