@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kenneth and I'm a final year computer science student at DCU. I'm from Dublin, Ireland. I am an aspiring frontend software engineer and UI engineer with a background in marketing & web design.</p>
+<p align="left">My name is Kenneth and I'm a Computer Science graduate at Dublin City University. I'm based in Dublin, Ireland. I am an aspiring full-stack software engineer and UI engineer with a background in marketing & web design.</p>
 
 ###
 
